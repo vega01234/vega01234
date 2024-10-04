@@ -68,6 +68,6 @@
 
 ###
 
-<img src=".github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/vega01234/vega01234/blob/98a4662daaf628845261a66424f214e974686f64/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
