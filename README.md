@@ -68,6 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vega01234/vega01234/output/snake.svg" alt="Snake animation" />
+<img src=".github/workflows/snake.yml" alt="Snake animation" />
 
 ###
