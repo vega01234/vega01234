@@ -80,6 +80,10 @@
 
 ###
 
+<p align="left">Problematic Snake 🐍</p>
+
+###
+
 <img src="https://raw.githubusercontent.com/vega01234/vega01234/output/snake.svg" alt="Snake animation" />
 
 ###
