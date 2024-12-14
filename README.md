@@ -79,3 +79,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/vega01234/vega01234/output/snake.svg" alt="Snake animation" />
+
+###
